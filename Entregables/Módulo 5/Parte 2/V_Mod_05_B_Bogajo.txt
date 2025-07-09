@@ -1,0 +1,8 @@
+Link de video en YouTube: https://youtu.be/Szf9tph6b-k ----> (Se recomienda ver en 1080p)
+
+Especificaciones: 
+	- Software: Windows, Java
+	- Voz en off generada por IA: https://speechgen.io/es/ 
+	- Editor de video: https://www.kinemaster.com/
+
+Autor: Maria Bogajo Lopez

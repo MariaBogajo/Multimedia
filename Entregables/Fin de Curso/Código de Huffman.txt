@@ -1,0 +1,8 @@
+Link de video en YouTube: https://youtu.be/fncZyKNm17Q  ----> (Se recomienda ver en 1080p)
+
+Especificaciones: 
+	- Software: Google Docs, Paython
+	- Voz en off generada por IA: https://speechgen.io/es/ 
+	- Editor de video: https://www.kinemaster.com/
+
+Autor: Maria Bogajo Lopez
